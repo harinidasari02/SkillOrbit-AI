@@ -1,0 +1,201 @@
+course_id,course_name,cost,duration_hours,capacity,level_taught,status,available_from,available_until
+CRS-000001,Intro Java - Core Language (Basics),430,64,16,1,ACTIVE,2026-03-24,2027-07-30
+CRS-000002,Intro Python - Core Language (Basics),4195,72,13,1,ACTIVE,2026-01-16,2027-07-07
+CRS-000003,Intro Data - SQL Analytics (Basics),275,77,10,1,ACTIVE,2026-03-30,2027-08-29
+CRS-000004,Foundation Testing - Unit Testing (Basics),985,54,13,2,ACTIVE,2026-01-08,2026-08-23
+CRS-000005,Foundation DevOps - CI/CD (Basics),5755,18,19,2,ACTIVE,2026-02-27,2027-11-26
+CRS-000006,Intro Cloud - AWS Basics (Basics),150,45,38,1,ACTIVE,2026-01-02,2027-10-12
+CRS-000007,Foundation Database - Relational Design (Basics),740,29,40,2,ACTIVE,2026-02-24,2026-06-01
+CRS-000008,Intermediate Web - HTML/CSS (Basics),1925,54,21,3,ACTIVE,2026-02-19,2027-07-17
+CRS-000009,Advanced Security - Secure Coding (Basics),255,16,22,4,ACTIVE,2026-03-09,2027-09-04
+CRS-000010,Intermediate Delivery - Agile (Basics),1825,73,36,3,ACTIVE,2026-02-27,2027-10-06
+CRS-000011,Intermediate Java - Collections (Basics),180,8,17,3,ACTIVE,2026-01-21,2027-09-30
+CRS-000012,Foundation Python - Packaging (Basics),3290,62,32,2,ACTIVE,2026-02-17,2026-06-23
+CRS-000013,Intermediate Data - Visualization (Basics),3330,61,12,3,ACTIVE,2026-03-11,2027-08-24
+CRS-000014,Foundation Testing - Integration Testing (Basics),7395,47,35,2,ACTIVE,2026-01-25,2027-08-18
+CRS-000015,Advanced DevOps - Docker (Basics),4425,38,23,4,ACTIVE,2026-02-22,2027-10-04
+CRS-000016,Advanced Cloud - Azure Basics (Basics),1300,25,28,4,ACTIVE,2026-01-03,2027-10-14
+CRS-000017,Intro Database - Query Tuning (Basics),690,21,37,1,ACTIVE,2026-02-09,2027-10-09
+CRS-000018,Foundation Web - JavaScript (Basics),5830,7,29,2,ACTIVE,2026-01-13,2027-11-22
+CRS-000019,Foundation Security - AuthN/AuthZ (Basics),350,64,17,2,ACTIVE,2026-03-24,2027-11-07
+CRS-000020,Foundation Delivery - Scrum (Basics),240,71,28,2,ACTIVE,2026-01-21,2027-10-20
+CRS-000021,Intro Java - Streams (Basics),3435,10,20,1,ACTIVE,2026-02-25,2027-12-08
+CRS-000022,Foundation Python - Async (Basics),175,68,36,2,ACTIVE,2026-02-01,2027-10-28
+CRS-000023,Foundation Data - Statistics (Basics),305,14,19,2,ACTIVE,2026-03-16,2027-08-15
+CRS-000024,Foundation Testing - Test Automation (Basics),1215,37,30,2,ACTIVE,2026-03-28,2027-12-21
+CRS-000025,Intro DevOps - Kubernetes (Basics),3840,32,40,1,ACTIVE,2026-03-27,2027-11-09
+CRS-000026,Foundation Cloud - Serverless (Basics),6695,5,8,2,ACTIVE,2026-01-26,2027-09-27
+CRS-000027,Expert Database - Indexing (Basics),5475,36,10,5,ACTIVE,2026-01-25,2027-08-12
+CRS-000028,Foundation Web - React (Basics),230,4,29,2,ACTIVE,2026-02-06,2027-10-08
+CRS-000029,Foundation Security - Threat Modeling (Basics),2245,21,21,2,ACTIVE,2026-03-17,2027-09-28
+CRS-000030,Foundation Delivery - Estimation (Basics),6770,12,30,2,ACTIVE,2026-03-12,2027-12-24
+CRS-000031,Foundation Java - Concurrency (Basics),165,33,16,2,ACTIVE,2026-03-01,2027-11-28
+CRS-000032,Foundation Python - Pandas (Basics),6455,51,17,2,ACTIVE,2026-03-02,2027-11-16
+CRS-000033,Intermediate Data - ETL (Basics),420,75,10,3,ACTIVE,2026-02-19,2027-08-04
+CRS-000034,Intro Testing - Selenium (Basics),2630,26,17,1,ACTIVE,2026-02-11,2027-09-20
+CRS-000035,Intro DevOps - Terraform (Basics),2300,63,25,1,ACTIVE,2026-03-20,2027-11-03
+CRS-000036,Intermediate Cloud - Cloud Networking (Basics),9030,56,20,3,ACTIVE,2026-03-24,2027-11-30
+CRS-000037,Intro Database - Transactions (Basics),2290,41,40,1,ACTIVE,2026-02-26,2027-09-12
+CRS-000038,Advanced Web - Accessibility (Basics),5755,28,16,4,ACTIVE,2026-02-27,2027-09-24
+CRS-000039,Foundation Security - Cryptography (Basics),3030,11,40,2,ACTIVE,2026-02-04,2027-12-02
+CRS-000040,Intro Delivery - Requirements (Basics),5350,72,26,1,ACTIVE,2026-03-31,2027-10-30
+CRS-000041,Intermediate Java - JVM Tuning (Basics),4585,56,11,3,ACTIVE,2026-03-09,2027-11-03
+CRS-000042,Intermediate Python - NumPy (Basics),690,18,35,3,ACTIVE,2026-01-19,2027-06-30
+CRS-000043,Intermediate Data - Data Modeling (Basics),5295,43,20,3,ACTIVE,2026-03-21,2027-07-31
+CRS-000044,Intermediate Testing - API Testing (Basics),165,28,12,3,ACTIVE,2026-01-12,2027-10-03
+CRS-000045,Advanced DevOps - Monitoring (Basics),3020,63,9,4,ACTIVE,2026-03-13,2027-07-17
+CRS-000046,Foundation Cloud - Cloud Storage (Basics),160,42,18,2,ACTIVE,2026-02-05,2026-05-23
+CRS-000047,Intro Database - NoSQL (Basics),820,17,8,1,ACTIVE,2026-02-15,2027-07-26
+CRS-000048,Foundation Web - REST Design (Basics),900,21,9,2,ACTIVE,2026-03-17,2027-11-08
+CRS-000049,Intermediate Security - Vulnerability Mgmt (Basics),1125,77,15,3,ACTIVE,2026-03-11,2027-07-28
+CRS-000050,Intro Delivery - Stakeholder Mgmt (Basics),815,37,10,1,ACTIVE,2026-01-07,2027-11-19
+CRS-000051,Intermediate Java - Generics (Basics),8665,16,9,3,ACTIVE,2026-01-22,2026-10-13
+CRS-000052,Intermediate Python - Flask (Basics),5775,74,15,3,ACTIVE,2026-03-19,2027-12-17
+CRS-000053,Intro Data - Dashboards (Basics),8410,66,26,1,ACTIVE,2026-03-05,2027-08-04
+CRS-000054,Foundation Testing - Load Testing (Basics),165,44,30,2,ACTIVE,2026-03-30,2027-12-06
+CRS-000055,Advanced DevOps - Logging (Basics),220,29,30,4,ACTIVE,2026-02-16,2027-08-16
+CRS-000056,Intro Cloud - IAM (Basics),8285,74,14,1,ACTIVE,2026-01-25,2027-07-19
+CRS-000057,Advanced Database - Replication (Basics),330,4,15,4,ACTIVE,2026-02-28,2027-09-10
+CRS-000058,Advanced Web - Web Performance (Basics),5310,30,29,4,ACTIVE,2026-03-11,2027-12-11
+CRS-000059,Advanced Security - Secrets Mgmt (Basics),150,27,17,4,ACTIVE,2026-03-31,2027-08-13
+CRS-000060,Foundation Delivery - Risk Mgmt (Basics),6915,22,39,2,ACTIVE,2026-03-24,2027-09-08
+CRS-000061,Intro Java - Exceptions (Basics),3075,50,21,1,ACTIVE,2026-02-21,2027-11-18
+CRS-000062,Foundation Python - Django (Basics),5220,10,30,2,ACTIVE,2026-01-31,2027-08-21
+CRS-000063,Intermediate Data - Forecasting (Basics),1280,43,13,3,ACTIVE,2026-02-27,2027-08-12
+CRS-000064,Intermediate Testing - Test Design (Basics),2105,29,14,3,ACTIVE,2026-03-14,2027-12-07
+CRS-000065,Intro DevOps - Linux Admin (Basics),785,34,18,1,ACTIVE,2026-03-26,2027-10-14
+CRS-000066,Foundation Cloud - Cost Management (Basics),625,52,19,2,ACTIVE,2026-02-04,2026-10-01
+CRS-000067,Intro Database - Backup (Basics),1620,44,11,1,DISABLED,2026-03-31,2027-09-24
+CRS-000068,Foundation Web - State Management (Basics),675,14,28,2,ACTIVE,2026-01-16,2027-10-23
+CRS-000069,Intro Security - Network Security (Basics),160,6,8,1,ACTIVE,2026-02-25,2027-11-07
+CRS-000070,Intermediate Delivery - Roadmapping (Basics),190,30,37,3,ACTIVE,2026-03-18,2027-11-20
+CRS-000071,Advanced Java - I/O (Basics),7755,9,28,4,ACTIVE,2026-02-19,2027-11-09
+CRS-000072,Intro Python - Typing (Basics),1990,12,34,1,ACTIVE,2026-01-04,2027-10-17
+CRS-000073,Foundation Data - Data Quality (Basics),1495,61,25,2,ACTIVE,2026-02-17,2027-08-14
+CRS-000074,Intro Testing - Mocking (Basics),635,76,9,1,ACTIVE,2026-03-09,2027-08-25
+CRS-000075,Foundation DevOps - Git Workflows (Basics),6665,58,39,2,ACTIVE,2026-03-08,2027-10-29
+CRS-000076,Foundation Cloud - Cloud Migration (Basics),8055,62,14,2,ACTIVE,2026-03-07,2027-12-17
+CRS-000077,Intro Database - Stored Procedures (Basics),1840,12,30,1,ACTIVE,2026-03-23,2027-11-07
+CRS-000078,Foundation Web - Browser Tooling (Basics),2910,63,22,2,ACTIVE,2026-03-13,2027-12-07
+CRS-000079,Foundation Security - Compliance (Basics),6900,60,32,2,ACTIVE,2026-02-02,2027-07-24
+CRS-000080,Intro Delivery - Retrospectives (Basics),6970,29,32,1,ACTIVE,2026-03-17,2027-10-01
+CRS-000081,Intermediate Java - Spring Boot (Basics),2950,56,35,3,ACTIVE,2026-01-04,2027-08-05
+CRS-000082,Foundation Python - Scripting (Basics),2170,65,33,2,ACTIVE,2026-03-23,2027-10-28
+CRS-000083,Intro Data - Warehousing (Basics),520,27,12,1,ACTIVE,2026-02-21,2027-09-15
+CRS-000084,Intro Testing - Exploratory Testing (Basics),185,40,12,1,ACTIVE,2026-01-02,2027-08-05
+CRS-000085,Intermediate DevOps - Ansible (Basics),4720,76,27,3,ACTIVE,2026-02-21,2026-09-18
+CRS-000086,Expert Cloud - Observability (Basics),1415,34,16,5,ACTIVE,2026-03-11,2027-11-19
+CRS-000087,Advanced Database - Migrations (Basics),7105,39,22,4,ACTIVE,2026-01-09,2027-10-11
+CRS-000088,Intro Web - UX Basics (Basics),165,7,34,1,ACTIVE,2026-03-21,2027-09-26
+CRS-000089,Intro Security - Incident Response (Basics),6650,25,27,1,ACTIVE,2026-03-09,2027-08-28
+CRS-000090,Advanced Delivery - Business Analysis (Basics),6920,44,29,4,ACTIVE,2026-02-22,2026-08-19
+CRS-000091,Intermediate Java - JPA (Basics),150,68,27,3,ACTIVE,2026-02-24,2027-12-01
+CRS-000092,Foundation Python - Testing Tools (Basics),6855,33,39,2,ACTIVE,2026-02-16,2027-12-18
+CRS-000093,Foundation Data - Reporting (Basics),160,59,37,2,ACTIVE,2026-03-03,2027-09-06
+CRS-000094,Advanced Testing - BDD (Basics),1505,20,15,4,ACTIVE,2026-03-27,2027-12-21
+CRS-000095,Intro DevOps - Release Engineering (Basics),455,48,33,1,ACTIVE,2026-01-11,2027-11-22
+CRS-000096,Intermediate Cloud - Containers on Cloud (Basics),760,43,10,3,ACTIVE,2026-01-16,2027-08-23
+CRS-000097,Intro Database - Caching (Basics),155,11,28,1,ACTIVE,2026-02-18,2027-09-11
+CRS-000098,Advanced Web - TypeScript (Basics),455,63,37,4,ACTIVE,2026-03-01,2027-08-28
+CRS-000099,Intermediate Security - Pen Testing Basics (Basics),3610,64,38,3,ACTIVE,2026-02-13,2026-05-16
+CRS-000100,Intro Delivery - Process Modeling (Basics),7205,53,23,1,ACTIVE,2026-03-01,2027-12-06
+CRS-000101,Foundation Java - Core Language (Basics),685,80,33,2,ACTIVE,2026-01-13,2027-07-09
+CRS-000102,Advanced Python - Core Language (Basics),4725,43,39,4,ACTIVE,2026-03-11,2027-12-12
+CRS-000103,Intro Data - SQL Analytics (Basics),2360,47,40,1,ACTIVE,2026-03-19,2027-09-16
+CRS-000104,Intermediate Testing - Unit Testing (Basics),3035,18,13,3,ACTIVE,2026-03-20,2027-08-08
+CRS-000105,Intermediate DevOps - CI/CD (Basics),7335,55,10,3,ACTIVE,2026-01-24,2027-12-03
+CRS-000106,Advanced Cloud - AWS Basics (Basics),225,20,19,4,ACTIVE,2026-02-08,2027-10-15
+CRS-000107,Intro Database - Relational Design (Basics),410,51,36,1,ACTIVE,2026-03-30,2027-10-16
+CRS-000108,Intermediate Web - HTML/CSS (Basics),265,59,29,3,ACTIVE,2026-01-14,2027-07-09
+CRS-000109,Foundation Security - Secure Coding (Basics),1880,35,39,2,ACTIVE,2026-03-28,2027-12-13
+CRS-000110,Intro Delivery - Agile (Basics),175,43,18,1,ACTIVE,2026-02-17,2027-08-13
+CRS-000111,Intermediate Java - Collections (Basics),430,74,11,3,ACTIVE,2026-01-19,2027-07-17
+CRS-000112,Intermediate Python - Packaging (Basics),4210,79,39,3,ACTIVE,2026-02-05,2027-07-28
+CRS-000113,Intro Data - Visualization (Basics),490,79,33,1,ACTIVE,2026-03-03,2027-11-25
+CRS-000114,Intro Testing - Integration Testing (Basics),215,6,35,1,ACTIVE,2026-01-30,2026-08-09
+CRS-000115,Foundation DevOps - Docker (Basics),5580,70,40,2,ACTIVE,2026-02-27,2027-09-28
+CRS-000116,Foundation Cloud - Azure Basics (Basics),1775,66,13,2,ACTIVE,2026-02-14,2027-12-08
+CRS-000117,Foundation Database - Query Tuning (Basics),950,39,38,2,ACTIVE,2026-03-19,2027-11-19
+CRS-000118,Intro Web - JavaScript (Basics),190,44,19,1,ACTIVE,2026-02-10,2027-08-22
+CRS-000119,Intro Security - AuthN/AuthZ (Basics),150,9,29,1,ACTIVE,2026-03-21,2027-07-07
+CRS-000120,Expert Delivery - Scrum (Basics),1400,37,38,5,ACTIVE,2026-02-01,2027-11-22
+CRS-000121,Intermediate Java - Streams (Basics),5935,27,21,3,ACTIVE,2026-02-18,2027-11-11
+CRS-000122,Intermediate Python - Async (Basics),1100,33,38,3,ACTIVE,2026-03-18,2027-12-03
+CRS-000123,Foundation Data - Statistics (Basics),200,62,20,2,ACTIVE,2026-01-23,2027-08-14
+CRS-000124,Intermediate Testing - Test Automation (Basics),195,7,12,3,ACTIVE,2026-01-02,2027-08-29
+CRS-000125,Advanced DevOps - Kubernetes (Basics),805,37,23,4,DISABLED,2026-02-18,2027-07-27
+CRS-000126,Expert Cloud - Serverless (Basics),3445,39,20,5,ACTIVE,2026-02-19,2027-11-14
+CRS-000127,Foundation Database - Indexing (Basics),1875,48,39,2,ACTIVE,2026-03-18,2027-09-22
+CRS-000128,Intro Web - React (Basics),8920,80,29,1,ACTIVE,2026-01-23,2026-07-16
+CRS-000129,Intermediate Security - Threat Modeling (Basics),1540,64,13,3,ACTIVE,2026-03-19,2027-09-29
+CRS-000130,Foundation Delivery - Estimation (Basics),4285,53,27,2,ACTIVE,2026-03-25,2027-10-04
+CRS-000131,Intermediate Java - Concurrency (Basics),1715,37,24,3,ACTIVE,2026-01-11,2027-12-04
+CRS-000132,Foundation Python - Pandas (Basics),260,7,12,2,DISABLED,2026-03-17,2027-07-08
+CRS-000133,Foundation Data - ETL (Basics),6160,72,17,2,ACTIVE,2026-01-31,2026-07-18
+CRS-000134,Foundation Testing - Selenium (Basics),2455,31,31,2,ACTIVE,2026-01-14,2027-09-14
+CRS-000135,Expert DevOps - Terraform (Basics),150,74,38,5,ACTIVE,2026-03-24,2027-08-14
+CRS-000136,Advanced Cloud - Cloud Networking (Basics),325,54,28,4,ACTIVE,2026-03-09,2027-12-26
+CRS-000137,Foundation Database - Transactions (Basics),245,62,30,2,ACTIVE,2026-03-30,2027-11-11
+CRS-000138,Intermediate Web - Accessibility (Basics),2200,38,11,3,ACTIVE,2026-02-06,2027-08-29
+CRS-000139,Intermediate Security - Cryptography (Basics),4340,31,32,3,ACTIVE,2026-02-24,2027-09-23
+CRS-000140,Intro Delivery - Requirements (Basics),1100,52,17,1,ACTIVE,2026-02-17,2027-12-18
+CRS-000141,Foundation Java - JVM Tuning (Basics),215,49,13,2,ACTIVE,2026-01-16,2027-07-18
+CRS-000142,Intermediate Python - NumPy (Basics),1245,33,40,3,ACTIVE,2026-01-31,2027-10-12
+CRS-000143,Intro Data - Data Modeling (Basics),180,10,36,1,ACTIVE,2026-02-01,2027-11-21
+CRS-000144,Foundation Testing - API Testing (Basics),2510,32,10,2,ACTIVE,2026-02-27,2027-09-27
+CRS-000145,Intro DevOps - Monitoring (Basics),4020,22,40,1,ACTIVE,2026-02-02,2026-06-19
+CRS-000146,Intro Cloud - Cloud Storage (Basics),5605,47,33,1,ACTIVE,2026-02-12,2027-08-24
+CRS-000147,Intro Database - NoSQL (Basics),1535,27,12,1,ACTIVE,2026-01-09,2027-10-16
+CRS-000148,Intermediate Web - REST Design (Basics),6525,65,22,3,ACTIVE,2026-01-17,2027-12-13
+CRS-000149,Intermediate Security - Vulnerability Mgmt (Basics),170,8,14,3,ACTIVE,2026-01-27,2027-09-30
+CRS-000150,Foundation Delivery - Stakeholder Mgmt (Basics),8275,5,25,2,ACTIVE,2026-03-26,2027-08-17
+CRS-000151,Intermediate Java - Generics (Basics),8660,63,22,3,ACTIVE,2026-01-09,2027-12-15
+CRS-000152,Intro Python - Flask (Basics),2245,13,39,1,ACTIVE,2026-01-13,2027-10-15
+CRS-000153,Advanced Data - Dashboards (Basics),850,12,40,4,ACTIVE,2026-02-01,2026-08-04
+CRS-000154,Intermediate Testing - Load Testing (Basics),1745,77,11,3,ACTIVE,2026-03-22,2027-09-28
+CRS-000155,Intro DevOps - Logging (Basics),380,34,16,1,ACTIVE,2026-01-20,2027-08-28
+CRS-000156,Advanced Cloud - IAM (Basics),1345,4,35,4,DISABLED,2026-01-08,2027-12-08
+CRS-000157,Intermediate Database - Replication (Basics),150,64,14,3,ACTIVE,2026-02-27,2026-07-08
+CRS-000158,Foundation Web - Web Performance (Basics),360,4,35,2,ACTIVE,2026-03-02,2027-12-18
+CRS-000159,Foundation Security - Secrets Mgmt (Basics),1235,39,11,2,ACTIVE,2026-02-23,2027-10-02
+CRS-000160,Intermediate Delivery - Risk Mgmt (Basics),1385,27,15,3,ACTIVE,2026-01-18,2027-11-16
+CRS-000161,Intro Java - Exceptions (Basics),180,79,18,1,ACTIVE,2026-02-02,2027-08-01
+CRS-000162,Foundation Python - Django (Basics),6025,64,11,2,ACTIVE,2026-02-06,2027-07-31
+CRS-000163,Advanced Data - Forecasting (Basics),4110,41,22,4,ACTIVE,2026-03-31,2027-11-30
+CRS-000164,Foundation Testing - Test Design (Basics),625,36,25,2,DISABLED,2026-01-13,2027-10-28
+CRS-000165,Advanced DevOps - Linux Admin (Basics),340,75,31,4,ACTIVE,2026-01-12,2027-11-20
+CRS-000166,Expert Cloud - Cost Management (Basics),900,29,8,5,ACTIVE,2026-01-18,2027-12-21
+CRS-000167,Intermediate Database - Backup (Basics),3895,56,29,3,ACTIVE,2026-03-25,2027-12-23
+CRS-000168,Intermediate Web - State Management (Basics),150,5,33,3,ACTIVE,2026-03-10,2027-11-22
+CRS-000169,Intermediate Security - Network Security (Basics),620,5,35,3,ACTIVE,2026-02-25,2026-09-06
+CRS-000170,Intro Delivery - Roadmapping (Basics),445,17,8,1,ACTIVE,2026-03-25,2027-07-01
+CRS-000171,Intermediate Java - I/O (Basics),155,30,34,3,ACTIVE,2026-02-22,2027-09-11
+CRS-000172,Foundation Python - Typing (Basics),9065,23,38,2,ACTIVE,2026-02-05,2027-09-04
+CRS-000173,Intro Data - Data Quality (Basics),1000,30,14,1,ACTIVE,2026-01-31,2027-10-17
+CRS-000174,Intermediate Testing - Mocking (Basics),175,73,10,3,ACTIVE,2026-02-09,2027-08-25
+CRS-000175,Intermediate DevOps - Git Workflows (Basics),470,74,29,3,ACTIVE,2026-01-09,2026-10-08
+CRS-000176,Intermediate Cloud - Cloud Migration (Basics),5440,7,38,3,ACTIVE,2026-03-16,2027-10-19
+CRS-000177,Intermediate Database - Stored Procedures (Basics),7080,65,17,3,ACTIVE,2026-03-06,2027-07-28
+CRS-000178,Foundation Web - Browser Tooling (Basics),180,76,17,2,ACTIVE,2026-01-20,2027-07-13
+CRS-000179,Intermediate Security - Compliance (Basics),2835,29,13,3,ACTIVE,2026-02-27,2027-11-09
+CRS-000180,Intermediate Delivery - Retrospectives (Basics),800,14,38,3,ACTIVE,2026-02-15,2027-07-28
+CRS-000181,Intermediate Java - Spring Boot (Basics),605,74,31,3,ACTIVE,2026-01-07,2027-07-09
+CRS-000182,Intro Python - Scripting (Basics),4630,71,21,1,ACTIVE,2026-01-07,2027-12-23
+CRS-000183,Foundation Data - Warehousing (Basics),1695,27,38,2,ACTIVE,2026-01-16,2027-08-29
+CRS-000184,Foundation Testing - Exploratory Testing (Basics),1910,40,27,2,ACTIVE,2026-02-20,2027-12-12
+CRS-000185,Foundation DevOps - Ansible (Basics),8645,41,17,2,ACTIVE,2026-02-19,2027-07-02
+CRS-000186,Intro Cloud - Observability (Basics),8655,56,24,1,ACTIVE,2026-02-16,2027-09-12
+CRS-000187,Intro Database - Migrations (Basics),175,68,18,1,ACTIVE,2026-03-26,2027-07-05
+CRS-000188,Expert Web - UX Basics (Basics),185,54,40,5,ACTIVE,2026-02-21,2027-10-14
+CRS-000189,Intermediate Security - Incident Response (Basics),1525,61,30,3,ACTIVE,2026-01-20,2027-11-27
+CRS-000190,Intermediate Delivery - Business Analysis (Basics),160,18,14,3,ACTIVE,2026-02-17,2027-11-29
+CRS-000191,Intermediate Java - JPA (Basics),8585,15,19,3,ACTIVE,2026-02-12,2027-10-15
+CRS-000192,Intro Python - Testing Tools (Basics),1055,64,13,1,ACTIVE,2026-01-13,2026-07-25
+CRS-000193,Advanced Data - Reporting (Basics),5090,40,35,4,ACTIVE,2026-02-26,2026-08-13
+CRS-000194,Intro Testing - BDD (Basics),160,21,15,1,ACTIVE,2026-03-23,2027-10-25
+CRS-000195,Foundation DevOps - Release Engineering (Basics),2520,63,8,2,ACTIVE,2026-02-24,2027-10-11
+CRS-000196,Foundation Cloud - Containers on Cloud (Basics),220,42,9,2,ACTIVE,2026-01-05,2027-10-11
+CRS-000197,Foundation Database - Caching (Basics),380,15,8,2,ACTIVE,2026-02-14,2026-09-28
+CRS-000198,Intro Web - TypeScript (Basics),5250,40,10,1,ACTIVE,2026-01-13,2027-09-02
+CRS-000199,Advanced Security - Pen Testing Basics (Basics),170,13,8,4,ACTIVE,2026-02-19,2027-08-16
+CRS-000200,Foundation Delivery - Process Modeling (Basics),325,12,25,2,ACTIVE,2026-02-08,2027-08-25

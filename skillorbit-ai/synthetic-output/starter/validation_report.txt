@@ -1,0 +1,57 @@
+SkillOrbit validation report
+============================
+PASS  volume matches configured scale (employees/skills/courses/enrollments)
+PASS  PK unique: roles
+PASS  PK unique: skills
+PASS  PK unique: employees
+PASS  PK unique: role_skill_targets (role,skill,effective_from)
+PASS  PK unique: courses
+PASS  PK unique: course_skills
+PASS  PK unique: course_prerequisites
+PASS  PK unique: budgets
+PASS  PK unique: enrollments
+PASS  PK unique: enrollment_events
+PASS  PK unique: completions
+PASS  PK unique: employee_skill_assessments
+PASS  PK unique: candidate_recommendations
+PASS  natural key unique: one enrollment per employee+course
+PASS  natural key unique: employee email
+PASS  natural key unique: one budget per department
+PASS  ID format EMP-000001
+PASS  ID format SKL-000001
+PASS  ID format CRS-000001
+PASS  ID format ENR-<employee-id>-<course-id>
+PASS  ID format CMP-2026-000001
+PASS  ID format BUD-<department>-2026
+PASS  enrollment id is exactly ENR-<employee_id>-<course_id>
+PASS  budget id matches department and fiscal year
+PASS  FK: employees/targets/course_skills/prerequisites reference existing parents
+PASS  FK: enrollments/events/completions reference existing parents and agree on employee+course
+PASS  FK: assessments and candidate recommendations reference existing parents
+PASS  enums: statuses, event types, assessment sources
+PASS  domains: proficiency 0-5, targets 1-5, positive cost/hours/capacity, score 0-100, passed == score>=60
+PASS  date ordering: hire < assessment, enrolled <= start <= end, nothing after as-of date 2026-10-28
+PASS  lifecycle: legal transitions only and enrollment status equals latest event
+PASS  completion <-> enrollment consistency (every COMPLETED has one, no other status has any)
+PASS  no unlabelled duplicate completions (labelled DUPLICATE_COMPLETION rows excluded)
+PASS  rule: course ACTIVE and inside availability window on enrollment date
+PASS  rule: every prerequisite passed before enrollment
+PASS  rule: every enrollment targets an open skill gap its course can raise
+PASS  rule: concurrent enrollments never exceed course capacity
+PASS  rule: employee and department budgets never exceeded by enrollments
+PASS  rule: passed completions older than 14 days have a reassessment (except labelled GAP_WITHOUT_REASSESSMENT)
+PASS  history: reassessment rows append-only, previous_level matches history, gain bounded by course level
+PASS  prerequisite graph is acyclic with no self-reference
+INFO  courses with prerequisites: 40 of 200; longest prerequisite chain: 1
+PASS  arithmetic: budget_summary committed/remaining recomputed from enrollments and courses
+PASS  arithmetic: skill_gaps = max(0, target - latest assessed level) for every role target
+PASS  ground truth: rule engine re-derives the expected decision for every candidate recommendation
+PASS  ground truth: every labelled edge case really exhibits its anomaly
+PASS  coverage: all 5 required edge cases have at least one labelled fixture
+INFO  edge-case fixture counts: {BUDGET_EXCEEDED=3, COURSE_UNAVAILABLE=3, DUPLICATE_COMPLETION=3, GAP_WITHOUT_REASSESSMENT=3, PREREQUISITE_VIOLATION=3}
+PASS  separation: no ground-truth columns inside input tables
+INFO  enrollment status mix: {CANCELLED=86, COMPLETED=435, ENROLLED=15, IN_PROGRESS=64}
+INFO  completions: 438, passed 372; passed-and-due with measured proficiency gain: 310 of 338 (completion != learning outcome)
+INFO  course cost range 150..9065; unavailable at 2026-10-28: 25 of 200
+
+SUMMARY: 48 passed, 0 failed

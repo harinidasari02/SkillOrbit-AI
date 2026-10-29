@@ -1,0 +1,9 @@
+role_id,role_name,department
+ROL-000001,Java Developer,ENG
+ROL-000002,Python Developer,ENG
+ROL-000003,Data Analyst,DATA
+ROL-000004,Software Tester,QA
+ROL-000005,DevOps Engineer,OPS
+ROL-000006,Business Analyst,BA
+ROL-000007,Project Manager,PMO
+ROL-000008,UI Developer,ENG

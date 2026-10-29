@@ -1,0 +1,8 @@
+[
+  {"budget_id": "BUD-OPS-2026", "department": "OPS", "fiscal_year": 2026, "allocated_amount": 4972500, "per_employee_cap": 10000},
+  {"budget_id": "BUD-DATA-2026", "department": "DATA", "fiscal_year": 2026, "allocated_amount": 4218750, "per_employee_cap": 9000},
+  {"budget_id": "BUD-ENG-2026", "department": "ENG", "fiscal_year": 2026, "allocated_amount": 10226250, "per_employee_cap": 7500},
+  {"budget_id": "BUD-BA-2026", "department": "BA", "fiscal_year": 2026, "allocated_amount": 6835500, "per_employee_cap": 14000},
+  {"budget_id": "BUD-QA-2026", "department": "QA", "fiscal_year": 2026, "allocated_amount": 5537250, "per_employee_cap": 11500},
+  {"budget_id": "BUD-PMO-2026", "department": "PMO", "fiscal_year": 2026, "allocated_amount": 3155250, "per_employee_cap": 7000}
+]

@@ -1,0 +1,56 @@
+{
+  "as_of_date": "2026-10-28",
+  "gaps_and_coverage": {
+    "employees": 300,
+    "employees_with_open_gap": 300,
+    "open_skill_gaps": 4935,
+    "avg_gap_size_levels": 1.8983,
+    "gaps_with_at_least_one_feasible_course": 2920,
+    "gap_coverage_rate": 0.5917,
+    "employees_with_feasible_recommendation_rate": 0.98
+  },
+  "recommendation_outcomes": {
+    "evaluated_gap_course_pairs": 17004,
+    "decision_counts": {
+      "ACCEPT": 5293,
+      "REJECT_ALREADY_ENROLLED": 596,
+      "REJECT_BUDGET": 1498,
+      "REJECT_NO_GAP_CLOSURE": 5791,
+      "REJECT_PREREQUISITE": 1989,
+      "REJECT_UNAVAILABLE": 1837
+    },
+    "feasible_recommendation_rate": 0.3113
+  },
+  "lifecycle_and_learning": {
+    "enrollment_status_counts": {
+      "CANCELLED": 86,
+      "COMPLETED": 435,
+      "ENROLLED": 15,
+      "IN_PROGRESS": 64
+    },
+    "completion_pass_rate": 0.8483,
+    "passed_and_due_for_reassessment": 338,
+    "passed_completions_with_measured_gain": 310,
+    "learning_gain_rate_given_pass": 0.9172,
+    "avg_proficiency_gain_per_reassessment": 1.0271,
+    "gap_closure_rate_on_targeted_reassessments": 0.3236
+  },
+  "budget": {
+    "BUD-OPS-2026_utilization": 0.4441,
+    "BUD-DATA-2026_utilization": 0.5109,
+    "BUD-ENG-2026_utilization": 0.5546,
+    "BUD-BA-2026_utilization": 0.4636,
+    "BUD-QA-2026_utilization": 0.6166,
+    "BUD-PMO-2026_utilization": 0.3929,
+    "overall_utilization": 0.498,
+    "total_committed": 952320
+  },
+  "rule_engine_vs_ground_truth": {
+    "candidate_recommendations": 69,
+    "rule_engine_accuracy_vs_ground_truth": 1.0,
+    "detected_BUDGET_EXCEEDED": "3/3",
+    "detected_COURSE_UNAVAILABLE": "3/3",
+    "detected_NONE": "60/60",
+    "detected_PREREQUISITE_VIOLATION": "3/3"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {"role_id": "ROL-000001", "role_name": "Java Developer", "department": "ENG"},
+  {"role_id": "ROL-000002", "role_name": "Python Developer", "department": "ENG"},
+  {"role_id": "ROL-000003", "role_name": "Data Analyst", "department": "DATA"},
+  {"role_id": "ROL-000004", "role_name": "Software Tester", "department": "QA"},
+  {"role_id": "ROL-000005", "role_name": "DevOps Engineer", "department": "OPS"},
+  {"role_id": "ROL-000006", "role_name": "Business Analyst", "department": "BA"},
+  {"role_id": "ROL-000007", "role_name": "Project Manager", "department": "PMO"},
+  {"role_id": "ROL-000008", "role_name": "UI Developer", "department": "ENG"}
+]

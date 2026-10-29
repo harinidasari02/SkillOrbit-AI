@@ -1,0 +1,501 @@
+skill_id,skill_name,category
+SKL-000001,Java - Core Language (Basics),Java
+SKL-000002,Python - Core Language (Basics),Python
+SKL-000003,Data - SQL Analytics (Basics),Data
+SKL-000004,Testing - Unit Testing (Basics),Testing
+SKL-000005,DevOps - CI/CD (Basics),DevOps
+SKL-000006,Cloud - AWS Basics (Basics),Cloud
+SKL-000007,Database - Relational Design (Basics),Database
+SKL-000008,Web - HTML/CSS (Basics),Web
+SKL-000009,Security - Secure Coding (Basics),Security
+SKL-000010,Delivery - Agile (Basics),Delivery
+SKL-000011,Java - Collections (Basics),Java
+SKL-000012,Python - Packaging (Basics),Python
+SKL-000013,Data - Visualization (Basics),Data
+SKL-000014,Testing - Integration Testing (Basics),Testing
+SKL-000015,DevOps - Docker (Basics),DevOps
+SKL-000016,Cloud - Azure Basics (Basics),Cloud
+SKL-000017,Database - Query Tuning (Basics),Database
+SKL-000018,Web - JavaScript (Basics),Web
+SKL-000019,Security - AuthN/AuthZ (Basics),Security
+SKL-000020,Delivery - Scrum (Basics),Delivery
+SKL-000021,Java - Streams (Basics),Java
+SKL-000022,Python - Async (Basics),Python
+SKL-000023,Data - Statistics (Basics),Data
+SKL-000024,Testing - Test Automation (Basics),Testing
+SKL-000025,DevOps - Kubernetes (Basics),DevOps
+SKL-000026,Cloud - Serverless (Basics),Cloud
+SKL-000027,Database - Indexing (Basics),Database
+SKL-000028,Web - React (Basics),Web
+SKL-000029,Security - Threat Modeling (Basics),Security
+SKL-000030,Delivery - Estimation (Basics),Delivery
+SKL-000031,Java - Concurrency (Basics),Java
+SKL-000032,Python - Pandas (Basics),Python
+SKL-000033,Data - ETL (Basics),Data
+SKL-000034,Testing - Selenium (Basics),Testing
+SKL-000035,DevOps - Terraform (Basics),DevOps
+SKL-000036,Cloud - Cloud Networking (Basics),Cloud
+SKL-000037,Database - Transactions (Basics),Database
+SKL-000038,Web - Accessibility (Basics),Web
+SKL-000039,Security - Cryptography (Basics),Security
+SKL-000040,Delivery - Requirements (Basics),Delivery
+SKL-000041,Java - JVM Tuning (Basics),Java
+SKL-000042,Python - NumPy (Basics),Python
+SKL-000043,Data - Data Modeling (Basics),Data
+SKL-000044,Testing - API Testing (Basics),Testing
+SKL-000045,DevOps - Monitoring (Basics),DevOps
+SKL-000046,Cloud - Cloud Storage (Basics),Cloud
+SKL-000047,Database - NoSQL (Basics),Database
+SKL-000048,Web - REST Design (Basics),Web
+SKL-000049,Security - Vulnerability Mgmt (Basics),Security
+SKL-000050,Delivery - Stakeholder Mgmt (Basics),Delivery
+SKL-000051,Java - Generics (Basics),Java
+SKL-000052,Python - Flask (Basics),Python
+SKL-000053,Data - Dashboards (Basics),Data
+SKL-000054,Testing - Load Testing (Basics),Testing
+SKL-000055,DevOps - Logging (Basics),DevOps
+SKL-000056,Cloud - IAM (Basics),Cloud
+SKL-000057,Database - Replication (Basics),Database
+SKL-000058,Web - Web Performance (Basics),Web
+SKL-000059,Security - Secrets Mgmt (Basics),Security
+SKL-000060,Delivery - Risk Mgmt (Basics),Delivery
+SKL-000061,Java - Exceptions (Basics),Java
+SKL-000062,Python - Django (Basics),Python
+SKL-000063,Data - Forecasting (Basics),Data
+SKL-000064,Testing - Test Design (Basics),Testing
+SKL-000065,DevOps - Linux Admin (Basics),DevOps
+SKL-000066,Cloud - Cost Management (Basics),Cloud
+SKL-000067,Database - Backup (Basics),Database
+SKL-000068,Web - State Management (Basics),Web
+SKL-000069,Security - Network Security (Basics),Security
+SKL-000070,Delivery - Roadmapping (Basics),Delivery
+SKL-000071,Java - I/O (Basics),Java
+SKL-000072,Python - Typing (Basics),Python
+SKL-000073,Data - Data Quality (Basics),Data
+SKL-000074,Testing - Mocking (Basics),Testing
+SKL-000075,DevOps - Git Workflows (Basics),DevOps
+SKL-000076,Cloud - Cloud Migration (Basics),Cloud
+SKL-000077,Database - Stored Procedures (Basics),Database
+SKL-000078,Web - Browser Tooling (Basics),Web
+SKL-000079,Security - Compliance (Basics),Security
+SKL-000080,Delivery - Retrospectives (Basics),Delivery
+SKL-000081,Java - Spring Boot (Basics),Java
+SKL-000082,Python - Scripting (Basics),Python
+SKL-000083,Data - Warehousing (Basics),Data
+SKL-000084,Testing - Exploratory Testing (Basics),Testing
+SKL-000085,DevOps - Ansible (Basics),DevOps
+SKL-000086,Cloud - Observability (Basics),Cloud
+SKL-000087,Database - Migrations (Basics),Database
+SKL-000088,Web - UX Basics (Basics),Web
+SKL-000089,Security - Incident Response (Basics),Security
+SKL-000090,Delivery - Business Analysis (Basics),Delivery
+SKL-000091,Java - JPA (Basics),Java
+SKL-000092,Python - Testing Tools (Basics),Python
+SKL-000093,Data - Reporting (Basics),Data
+SKL-000094,Testing - BDD (Basics),Testing
+SKL-000095,DevOps - Release Engineering (Basics),DevOps
+SKL-000096,Cloud - Containers on Cloud (Basics),Cloud
+SKL-000097,Database - Caching (Basics),Database
+SKL-000098,Web - TypeScript (Basics),Web
+SKL-000099,Security - Pen Testing Basics (Basics),Security
+SKL-000100,Delivery - Process Modeling (Basics),Delivery
+SKL-000101,Java - Core Language (Design),Java
+SKL-000102,Python - Core Language (Design),Python
+SKL-000103,Data - SQL Analytics (Design),Data
+SKL-000104,Testing - Unit Testing (Design),Testing
+SKL-000105,DevOps - CI/CD (Design),DevOps
+SKL-000106,Cloud - AWS Basics (Design),Cloud
+SKL-000107,Database - Relational Design (Design),Database
+SKL-000108,Web - HTML/CSS (Design),Web
+SKL-000109,Security - Secure Coding (Design),Security
+SKL-000110,Delivery - Agile (Design),Delivery
+SKL-000111,Java - Collections (Design),Java
+SKL-000112,Python - Packaging (Design),Python
+SKL-000113,Data - Visualization (Design),Data
+SKL-000114,Testing - Integration Testing (Design),Testing
+SKL-000115,DevOps - Docker (Design),DevOps
+SKL-000116,Cloud - Azure Basics (Design),Cloud
+SKL-000117,Database - Query Tuning (Design),Database
+SKL-000118,Web - JavaScript (Design),Web
+SKL-000119,Security - AuthN/AuthZ (Design),Security
+SKL-000120,Delivery - Scrum (Design),Delivery
+SKL-000121,Java - Streams (Design),Java
+SKL-000122,Python - Async (Design),Python
+SKL-000123,Data - Statistics (Design),Data
+SKL-000124,Testing - Test Automation (Design),Testing
+SKL-000125,DevOps - Kubernetes (Design),DevOps
+SKL-000126,Cloud - Serverless (Design),Cloud
+SKL-000127,Database - Indexing (Design),Database
+SKL-000128,Web - React (Design),Web
+SKL-000129,Security - Threat Modeling (Design),Security
+SKL-000130,Delivery - Estimation (Design),Delivery
+SKL-000131,Java - Concurrency (Design),Java
+SKL-000132,Python - Pandas (Design),Python
+SKL-000133,Data - ETL (Design),Data
+SKL-000134,Testing - Selenium (Design),Testing
+SKL-000135,DevOps - Terraform (Design),DevOps
+SKL-000136,Cloud - Cloud Networking (Design),Cloud
+SKL-000137,Database - Transactions (Design),Database
+SKL-000138,Web - Accessibility (Design),Web
+SKL-000139,Security - Cryptography (Design),Security
+SKL-000140,Delivery - Requirements (Design),Delivery
+SKL-000141,Java - JVM Tuning (Design),Java
+SKL-000142,Python - NumPy (Design),Python
+SKL-000143,Data - Data Modeling (Design),Data
+SKL-000144,Testing - API Testing (Design),Testing
+SKL-000145,DevOps - Monitoring (Design),DevOps
+SKL-000146,Cloud - Cloud Storage (Design),Cloud
+SKL-000147,Database - NoSQL (Design),Database
+SKL-000148,Web - REST Design (Design),Web
+SKL-000149,Security - Vulnerability Mgmt (Design),Security
+SKL-000150,Delivery - Stakeholder Mgmt (Design),Delivery
+SKL-000151,Java - Generics (Design),Java
+SKL-000152,Python - Flask (Design),Python
+SKL-000153,Data - Dashboards (Design),Data
+SKL-000154,Testing - Load Testing (Design),Testing
+SKL-000155,DevOps - Logging (Design),DevOps
+SKL-000156,Cloud - IAM (Design),Cloud
+SKL-000157,Database - Replication (Design),Database
+SKL-000158,Web - Web Performance (Design),Web
+SKL-000159,Security - Secrets Mgmt (Design),Security
+SKL-000160,Delivery - Risk Mgmt (Design),Delivery
+SKL-000161,Java - Exceptions (Design),Java
+SKL-000162,Python - Django (Design),Python
+SKL-000163,Data - Forecasting (Design),Data
+SKL-000164,Testing - Test Design (Design),Testing
+SKL-000165,DevOps - Linux Admin (Design),DevOps
+SKL-000166,Cloud - Cost Management (Design),Cloud
+SKL-000167,Database - Backup (Design),Database
+SKL-000168,Web - State Management (Design),Web
+SKL-000169,Security - Network Security (Design),Security
+SKL-000170,Delivery - Roadmapping (Design),Delivery
+SKL-000171,Java - I/O (Design),Java
+SKL-000172,Python - Typing (Design),Python
+SKL-000173,Data - Data Quality (Design),Data
+SKL-000174,Testing - Mocking (Design),Testing
+SKL-000175,DevOps - Git Workflows (Design),DevOps
+SKL-000176,Cloud - Cloud Migration (Design),Cloud
+SKL-000177,Database - Stored Procedures (Design),Database
+SKL-000178,Web - Browser Tooling (Design),Web
+SKL-000179,Security - Compliance (Design),Security
+SKL-000180,Delivery - Retrospectives (Design),Delivery
+SKL-000181,Java - Spring Boot (Design),Java
+SKL-000182,Python - Scripting (Design),Python
+SKL-000183,Data - Warehousing (Design),Data
+SKL-000184,Testing - Exploratory Testing (Design),Testing
+SKL-000185,DevOps - Ansible (Design),DevOps
+SKL-000186,Cloud - Observability (Design),Cloud
+SKL-000187,Database - Migrations (Design),Database
+SKL-000188,Web - UX Basics (Design),Web
+SKL-000189,Security - Incident Response (Design),Security
+SKL-000190,Delivery - Business Analysis (Design),Delivery
+SKL-000191,Java - JPA (Design),Java
+SKL-000192,Python - Testing Tools (Design),Python
+SKL-000193,Data - Reporting (Design),Data
+SKL-000194,Testing - BDD (Design),Testing
+SKL-000195,DevOps - Release Engineering (Design),DevOps
+SKL-000196,Cloud - Containers on Cloud (Design),Cloud
+SKL-000197,Database - Caching (Design),Database
+SKL-000198,Web - TypeScript (Design),Web
+SKL-000199,Security - Pen Testing Basics (Design),Security
+SKL-000200,Delivery - Process Modeling (Design),Delivery
+SKL-000201,Java - Core Language (Testing),Java
+SKL-000202,Python - Core Language (Testing),Python
+SKL-000203,Data - SQL Analytics (Testing),Data
+SKL-000204,Testing - Unit Testing (Testing),Testing
+SKL-000205,DevOps - CI/CD (Testing),DevOps
+SKL-000206,Cloud - AWS Basics (Testing),Cloud
+SKL-000207,Database - Relational Design (Testing),Database
+SKL-000208,Web - HTML/CSS (Testing),Web
+SKL-000209,Security - Secure Coding (Testing),Security
+SKL-000210,Delivery - Agile (Testing),Delivery
+SKL-000211,Java - Collections (Testing),Java
+SKL-000212,Python - Packaging (Testing),Python
+SKL-000213,Data - Visualization (Testing),Data
+SKL-000214,Testing - Integration Testing (Testing),Testing
+SKL-000215,DevOps - Docker (Testing),DevOps
+SKL-000216,Cloud - Azure Basics (Testing),Cloud
+SKL-000217,Database - Query Tuning (Testing),Database
+SKL-000218,Web - JavaScript (Testing),Web
+SKL-000219,Security - AuthN/AuthZ (Testing),Security
+SKL-000220,Delivery - Scrum (Testing),Delivery
+SKL-000221,Java - Streams (Testing),Java
+SKL-000222,Python - Async (Testing),Python
+SKL-000223,Data - Statistics (Testing),Data
+SKL-000224,Testing - Test Automation (Testing),Testing
+SKL-000225,DevOps - Kubernetes (Testing),DevOps
+SKL-000226,Cloud - Serverless (Testing),Cloud
+SKL-000227,Database - Indexing (Testing),Database
+SKL-000228,Web - React (Testing),Web
+SKL-000229,Security - Threat Modeling (Testing),Security
+SKL-000230,Delivery - Estimation (Testing),Delivery
+SKL-000231,Java - Concurrency (Testing),Java
+SKL-000232,Python - Pandas (Testing),Python
+SKL-000233,Data - ETL (Testing),Data
+SKL-000234,Testing - Selenium (Testing),Testing
+SKL-000235,DevOps - Terraform (Testing),DevOps
+SKL-000236,Cloud - Cloud Networking (Testing),Cloud
+SKL-000237,Database - Transactions (Testing),Database
+SKL-000238,Web - Accessibility (Testing),Web
+SKL-000239,Security - Cryptography (Testing),Security
+SKL-000240,Delivery - Requirements (Testing),Delivery
+SKL-000241,Java - JVM Tuning (Testing),Java
+SKL-000242,Python - NumPy (Testing),Python
+SKL-000243,Data - Data Modeling (Testing),Data
+SKL-000244,Testing - API Testing (Testing),Testing
+SKL-000245,DevOps - Monitoring (Testing),DevOps
+SKL-000246,Cloud - Cloud Storage (Testing),Cloud
+SKL-000247,Database - NoSQL (Testing),Database
+SKL-000248,Web - REST Design (Testing),Web
+SKL-000249,Security - Vulnerability Mgmt (Testing),Security
+SKL-000250,Delivery - Stakeholder Mgmt (Testing),Delivery
+SKL-000251,Java - Generics (Testing),Java
+SKL-000252,Python - Flask (Testing),Python
+SKL-000253,Data - Dashboards (Testing),Data
+SKL-000254,Testing - Load Testing (Testing),Testing
+SKL-000255,DevOps - Logging (Testing),DevOps
+SKL-000256,Cloud - IAM (Testing),Cloud
+SKL-000257,Database - Replication (Testing),Database
+SKL-000258,Web - Web Performance (Testing),Web
+SKL-000259,Security - Secrets Mgmt (Testing),Security
+SKL-000260,Delivery - Risk Mgmt (Testing),Delivery
+SKL-000261,Java - Exceptions (Testing),Java
+SKL-000262,Python - Django (Testing),Python
+SKL-000263,Data - Forecasting (Testing),Data
+SKL-000264,Testing - Test Design (Testing),Testing
+SKL-000265,DevOps - Linux Admin (Testing),DevOps
+SKL-000266,Cloud - Cost Management (Testing),Cloud
+SKL-000267,Database - Backup (Testing),Database
+SKL-000268,Web - State Management (Testing),Web
+SKL-000269,Security - Network Security (Testing),Security
+SKL-000270,Delivery - Roadmapping (Testing),Delivery
+SKL-000271,Java - I/O (Testing),Java
+SKL-000272,Python - Typing (Testing),Python
+SKL-000273,Data - Data Quality (Testing),Data
+SKL-000274,Testing - Mocking (Testing),Testing
+SKL-000275,DevOps - Git Workflows (Testing),DevOps
+SKL-000276,Cloud - Cloud Migration (Testing),Cloud
+SKL-000277,Database - Stored Procedures (Testing),Database
+SKL-000278,Web - Browser Tooling (Testing),Web
+SKL-000279,Security - Compliance (Testing),Security
+SKL-000280,Delivery - Retrospectives (Testing),Delivery
+SKL-000281,Java - Spring Boot (Testing),Java
+SKL-000282,Python - Scripting (Testing),Python
+SKL-000283,Data - Warehousing (Testing),Data
+SKL-000284,Testing - Exploratory Testing (Testing),Testing
+SKL-000285,DevOps - Ansible (Testing),DevOps
+SKL-000286,Cloud - Observability (Testing),Cloud
+SKL-000287,Database - Migrations (Testing),Database
+SKL-000288,Web - UX Basics (Testing),Web
+SKL-000289,Security - Incident Response (Testing),Security
+SKL-000290,Delivery - Business Analysis (Testing),Delivery
+SKL-000291,Java - JPA (Testing),Java
+SKL-000292,Python - Testing Tools (Testing),Python
+SKL-000293,Data - Reporting (Testing),Data
+SKL-000294,Testing - BDD (Testing),Testing
+SKL-000295,DevOps - Release Engineering (Testing),DevOps
+SKL-000296,Cloud - Containers on Cloud (Testing),Cloud
+SKL-000297,Database - Caching (Testing),Database
+SKL-000298,Web - TypeScript (Testing),Web
+SKL-000299,Security - Pen Testing Basics (Testing),Security
+SKL-000300,Delivery - Process Modeling (Testing),Delivery
+SKL-000301,Java - Core Language (Performance),Java
+SKL-000302,Python - Core Language (Performance),Python
+SKL-000303,Data - SQL Analytics (Performance),Data
+SKL-000304,Testing - Unit Testing (Performance),Testing
+SKL-000305,DevOps - CI/CD (Performance),DevOps
+SKL-000306,Cloud - AWS Basics (Performance),Cloud
+SKL-000307,Database - Relational Design (Performance),Database
+SKL-000308,Web - HTML/CSS (Performance),Web
+SKL-000309,Security - Secure Coding (Performance),Security
+SKL-000310,Delivery - Agile (Performance),Delivery
+SKL-000311,Java - Collections (Performance),Java
+SKL-000312,Python - Packaging (Performance),Python
+SKL-000313,Data - Visualization (Performance),Data
+SKL-000314,Testing - Integration Testing (Performance),Testing
+SKL-000315,DevOps - Docker (Performance),DevOps
+SKL-000316,Cloud - Azure Basics (Performance),Cloud
+SKL-000317,Database - Query Tuning (Performance),Database
+SKL-000318,Web - JavaScript (Performance),Web
+SKL-000319,Security - AuthN/AuthZ (Performance),Security
+SKL-000320,Delivery - Scrum (Performance),Delivery
+SKL-000321,Java - Streams (Performance),Java
+SKL-000322,Python - Async (Performance),Python
+SKL-000323,Data - Statistics (Performance),Data
+SKL-000324,Testing - Test Automation (Performance),Testing
+SKL-000325,DevOps - Kubernetes (Performance),DevOps
+SKL-000326,Cloud - Serverless (Performance),Cloud
+SKL-000327,Database - Indexing (Performance),Database
+SKL-000328,Web - React (Performance),Web
+SKL-000329,Security - Threat Modeling (Performance),Security
+SKL-000330,Delivery - Estimation (Performance),Delivery
+SKL-000331,Java - Concurrency (Performance),Java
+SKL-000332,Python - Pandas (Performance),Python
+SKL-000333,Data - ETL (Performance),Data
+SKL-000334,Testing - Selenium (Performance),Testing
+SKL-000335,DevOps - Terraform (Performance),DevOps
+SKL-000336,Cloud - Cloud Networking (Performance),Cloud
+SKL-000337,Database - Transactions (Performance),Database
+SKL-000338,Web - Accessibility (Performance),Web
+SKL-000339,Security - Cryptography (Performance),Security
+SKL-000340,Delivery - Requirements (Performance),Delivery
+SKL-000341,Java - JVM Tuning (Performance),Java
+SKL-000342,Python - NumPy (Performance),Python
+SKL-000343,Data - Data Modeling (Performance),Data
+SKL-000344,Testing - API Testing (Performance),Testing
+SKL-000345,DevOps - Monitoring (Performance),DevOps
+SKL-000346,Cloud - Cloud Storage (Performance),Cloud
+SKL-000347,Database - NoSQL (Performance),Database
+SKL-000348,Web - REST Design (Performance),Web
+SKL-000349,Security - Vulnerability Mgmt (Performance),Security
+SKL-000350,Delivery - Stakeholder Mgmt (Performance),Delivery
+SKL-000351,Java - Generics (Performance),Java
+SKL-000352,Python - Flask (Performance),Python
+SKL-000353,Data - Dashboards (Performance),Data
+SKL-000354,Testing - Load Testing (Performance),Testing
+SKL-000355,DevOps - Logging (Performance),DevOps
+SKL-000356,Cloud - IAM (Performance),Cloud
+SKL-000357,Database - Replication (Performance),Database
+SKL-000358,Web - Web Performance (Performance),Web
+SKL-000359,Security - Secrets Mgmt (Performance),Security
+SKL-000360,Delivery - Risk Mgmt (Performance),Delivery
+SKL-000361,Java - Exceptions (Performance),Java
+SKL-000362,Python - Django (Performance),Python
+SKL-000363,Data - Forecasting (Performance),Data
+SKL-000364,Testing - Test Design (Performance),Testing
+SKL-000365,DevOps - Linux Admin (Performance),DevOps
+SKL-000366,Cloud - Cost Management (Performance),Cloud
+SKL-000367,Database - Backup (Performance),Database
+SKL-000368,Web - State Management (Performance),Web
+SKL-000369,Security - Network Security (Performance),Security
+SKL-000370,Delivery - Roadmapping (Performance),Delivery
+SKL-000371,Java - I/O (Performance),Java
+SKL-000372,Python - Typing (Performance),Python
+SKL-000373,Data - Data Quality (Performance),Data
+SKL-000374,Testing - Mocking (Performance),Testing
+SKL-000375,DevOps - Git Workflows (Performance),DevOps
+SKL-000376,Cloud - Cloud Migration (Performance),Cloud
+SKL-000377,Database - Stored Procedures (Performance),Database
+SKL-000378,Web - Browser Tooling (Performance),Web
+SKL-000379,Security - Compliance (Performance),Security
+SKL-000380,Delivery - Retrospectives (Performance),Delivery
+SKL-000381,Java - Spring Boot (Performance),Java
+SKL-000382,Python - Scripting (Performance),Python
+SKL-000383,Data - Warehousing (Performance),Data
+SKL-000384,Testing - Exploratory Testing (Performance),Testing
+SKL-000385,DevOps - Ansible (Performance),DevOps
+SKL-000386,Cloud - Observability (Performance),Cloud
+SKL-000387,Database - Migrations (Performance),Database
+SKL-000388,Web - UX Basics (Performance),Web
+SKL-000389,Security - Incident Response (Performance),Security
+SKL-000390,Delivery - Business Analysis (Performance),Delivery
+SKL-000391,Java - JPA (Performance),Java
+SKL-000392,Python - Testing Tools (Performance),Python
+SKL-000393,Data - Reporting (Performance),Data
+SKL-000394,Testing - BDD (Performance),Testing
+SKL-000395,DevOps - Release Engineering (Performance),DevOps
+SKL-000396,Cloud - Containers on Cloud (Performance),Cloud
+SKL-000397,Database - Caching (Performance),Database
+SKL-000398,Web - TypeScript (Performance),Web
+SKL-000399,Security - Pen Testing Basics (Performance),Security
+SKL-000400,Delivery - Process Modeling (Performance),Delivery
+SKL-000401,Java - Core Language (Operations),Java
+SKL-000402,Python - Core Language (Operations),Python
+SKL-000403,Data - SQL Analytics (Operations),Data
+SKL-000404,Testing - Unit Testing (Operations),Testing
+SKL-000405,DevOps - CI/CD (Operations),DevOps
+SKL-000406,Cloud - AWS Basics (Operations),Cloud
+SKL-000407,Database - Relational Design (Operations),Database
+SKL-000408,Web - HTML/CSS (Operations),Web
+SKL-000409,Security - Secure Coding (Operations),Security
+SKL-000410,Delivery - Agile (Operations),Delivery
+SKL-000411,Java - Collections (Operations),Java
+SKL-000412,Python - Packaging (Operations),Python
+SKL-000413,Data - Visualization (Operations),Data
+SKL-000414,Testing - Integration Testing (Operations),Testing
+SKL-000415,DevOps - Docker (Operations),DevOps
+SKL-000416,Cloud - Azure Basics (Operations),Cloud
+SKL-000417,Database - Query Tuning (Operations),Database
+SKL-000418,Web - JavaScript (Operations),Web
+SKL-000419,Security - AuthN/AuthZ (Operations),Security
+SKL-000420,Delivery - Scrum (Operations),Delivery
+SKL-000421,Java - Streams (Operations),Java
+SKL-000422,Python - Async (Operations),Python
+SKL-000423,Data - Statistics (Operations),Data
+SKL-000424,Testing - Test Automation (Operations),Testing
+SKL-000425,DevOps - Kubernetes (Operations),DevOps
+SKL-000426,Cloud - Serverless (Operations),Cloud
+SKL-000427,Database - Indexing (Operations),Database
+SKL-000428,Web - React (Operations),Web
+SKL-000429,Security - Threat Modeling (Operations),Security
+SKL-000430,Delivery - Estimation (Operations),Delivery
+SKL-000431,Java - Concurrency (Operations),Java
+SKL-000432,Python - Pandas (Operations),Python
+SKL-000433,Data - ETL (Operations),Data
+SKL-000434,Testing - Selenium (Operations),Testing
+SKL-000435,DevOps - Terraform (Operations),DevOps
+SKL-000436,Cloud - Cloud Networking (Operations),Cloud
+SKL-000437,Database - Transactions (Operations),Database
+SKL-000438,Web - Accessibility (Operations),Web
+SKL-000439,Security - Cryptography (Operations),Security
+SKL-000440,Delivery - Requirements (Operations),Delivery
+SKL-000441,Java - JVM Tuning (Operations),Java
+SKL-000442,Python - NumPy (Operations),Python
+SKL-000443,Data - Data Modeling (Operations),Data
+SKL-000444,Testing - API Testing (Operations),Testing
+SKL-000445,DevOps - Monitoring (Operations),DevOps
+SKL-000446,Cloud - Cloud Storage (Operations),Cloud
+SKL-000447,Database - NoSQL (Operations),Database
+SKL-000448,Web - REST Design (Operations),Web
+SKL-000449,Security - Vulnerability Mgmt (Operations),Security
+SKL-000450,Delivery - Stakeholder Mgmt (Operations),Delivery
+SKL-000451,Java - Generics (Operations),Java
+SKL-000452,Python - Flask (Operations),Python
+SKL-000453,Data - Dashboards (Operations),Data
+SKL-000454,Testing - Load Testing (Operations),Testing
+SKL-000455,DevOps - Logging (Operations),DevOps
+SKL-000456,Cloud - IAM (Operations),Cloud
+SKL-000457,Database - Replication (Operations),Database
+SKL-000458,Web - Web Performance (Operations),Web
+SKL-000459,Security - Secrets Mgmt (Operations),Security
+SKL-000460,Delivery - Risk Mgmt (Operations),Delivery
+SKL-000461,Java - Exceptions (Operations),Java
+SKL-000462,Python - Django (Operations),Python
+SKL-000463,Data - Forecasting (Operations),Data
+SKL-000464,Testing - Test Design (Operations),Testing
+SKL-000465,DevOps - Linux Admin (Operations),DevOps
+SKL-000466,Cloud - Cost Management (Operations),Cloud
+SKL-000467,Database - Backup (Operations),Database
+SKL-000468,Web - State Management (Operations),Web
+SKL-000469,Security - Network Security (Operations),Security
+SKL-000470,Delivery - Roadmapping (Operations),Delivery
+SKL-000471,Java - I/O (Operations),Java
+SKL-000472,Python - Typing (Operations),Python
+SKL-000473,Data - Data Quality (Operations),Data
+SKL-000474,Testing - Mocking (Operations),Testing
+SKL-000475,DevOps - Git Workflows (Operations),DevOps
+SKL-000476,Cloud - Cloud Migration (Operations),Cloud
+SKL-000477,Database - Stored Procedures (Operations),Database
+SKL-000478,Web - Browser Tooling (Operations),Web
+SKL-000479,Security - Compliance (Operations),Security
+SKL-000480,Delivery - Retrospectives (Operations),Delivery
+SKL-000481,Java - Spring Boot (Operations),Java
+SKL-000482,Python - Scripting (Operations),Python
+SKL-000483,Data - Warehousing (Operations),Data
+SKL-000484,Testing - Exploratory Testing (Operations),Testing
+SKL-000485,DevOps - Ansible (Operations),DevOps
+SKL-000486,Cloud - Observability (Operations),Cloud
+SKL-000487,Database - Migrations (Operations),Database
+SKL-000488,Web - UX Basics (Operations),Web
+SKL-000489,Security - Incident Response (Operations),Security
+SKL-000490,Delivery - Business Analysis (Operations),Delivery
+SKL-000491,Java - JPA (Operations),Java
+SKL-000492,Python - Testing Tools (Operations),Python
+SKL-000493,Data - Reporting (Operations),Data
+SKL-000494,Testing - BDD (Operations),Testing
+SKL-000495,DevOps - Release Engineering (Operations),DevOps
+SKL-000496,Cloud - Containers on Cloud (Operations),Cloud
+SKL-000497,Database - Caching (Operations),Database
+SKL-000498,Web - TypeScript (Operations),Web
+SKL-000499,Security - Pen Testing Basics (Operations),Security
+SKL-000500,Delivery - Process Modeling (Operations),Delivery

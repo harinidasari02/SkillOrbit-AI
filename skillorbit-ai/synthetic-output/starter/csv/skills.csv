@@ -1,0 +1,101 @@
+skill_id,skill_name,category
+SKL-000001,Java - Core Language (Basics),Java
+SKL-000002,Python - Core Language (Basics),Python
+SKL-000003,Data - SQL Analytics (Basics),Data
+SKL-000004,Testing - Unit Testing (Basics),Testing
+SKL-000005,DevOps - CI/CD (Basics),DevOps
+SKL-000006,Cloud - AWS Basics (Basics),Cloud
+SKL-000007,Database - Relational Design (Basics),Database
+SKL-000008,Web - HTML/CSS (Basics),Web
+SKL-000009,Security - Secure Coding (Basics),Security
+SKL-000010,Delivery - Agile (Basics),Delivery
+SKL-000011,Java - Collections (Basics),Java
+SKL-000012,Python - Packaging (Basics),Python
+SKL-000013,Data - Visualization (Basics),Data
+SKL-000014,Testing - Integration Testing (Basics),Testing
+SKL-000015,DevOps - Docker (Basics),DevOps
+SKL-000016,Cloud - Azure Basics (Basics),Cloud
+SKL-000017,Database - Query Tuning (Basics),Database
+SKL-000018,Web - JavaScript (Basics),Web
+SKL-000019,Security - AuthN/AuthZ (Basics),Security
+SKL-000020,Delivery - Scrum (Basics),Delivery
+SKL-000021,Java - Streams (Basics),Java
+SKL-000022,Python - Async (Basics),Python
+SKL-000023,Data - Statistics (Basics),Data
+SKL-000024,Testing - Test Automation (Basics),Testing
+SKL-000025,DevOps - Kubernetes (Basics),DevOps
+SKL-000026,Cloud - Serverless (Basics),Cloud
+SKL-000027,Database - Indexing (Basics),Database
+SKL-000028,Web - React (Basics),Web
+SKL-000029,Security - Threat Modeling (Basics),Security
+SKL-000030,Delivery - Estimation (Basics),Delivery
+SKL-000031,Java - Concurrency (Basics),Java
+SKL-000032,Python - Pandas (Basics),Python
+SKL-000033,Data - ETL (Basics),Data
+SKL-000034,Testing - Selenium (Basics),Testing
+SKL-000035,DevOps - Terraform (Basics),DevOps
+SKL-000036,Cloud - Cloud Networking (Basics),Cloud
+SKL-000037,Database - Transactions (Basics),Database
+SKL-000038,Web - Accessibility (Basics),Web
+SKL-000039,Security - Cryptography (Basics),Security
+SKL-000040,Delivery - Requirements (Basics),Delivery
+SKL-000041,Java - JVM Tuning (Basics),Java
+SKL-000042,Python - NumPy (Basics),Python
+SKL-000043,Data - Data Modeling (Basics),Data
+SKL-000044,Testing - API Testing (Basics),Testing
+SKL-000045,DevOps - Monitoring (Basics),DevOps
+SKL-000046,Cloud - Cloud Storage (Basics),Cloud
+SKL-000047,Database - NoSQL (Basics),Database
+SKL-000048,Web - REST Design (Basics),Web
+SKL-000049,Security - Vulnerability Mgmt (Basics),Security
+SKL-000050,Delivery - Stakeholder Mgmt (Basics),Delivery
+SKL-000051,Java - Generics (Basics),Java
+SKL-000052,Python - Flask (Basics),Python
+SKL-000053,Data - Dashboards (Basics),Data
+SKL-000054,Testing - Load Testing (Basics),Testing
+SKL-000055,DevOps - Logging (Basics),DevOps
+SKL-000056,Cloud - IAM (Basics),Cloud
+SKL-000057,Database - Replication (Basics),Database
+SKL-000058,Web - Web Performance (Basics),Web
+SKL-000059,Security - Secrets Mgmt (Basics),Security
+SKL-000060,Delivery - Risk Mgmt (Basics),Delivery
+SKL-000061,Java - Exceptions (Basics),Java
+SKL-000062,Python - Django (Basics),Python
+SKL-000063,Data - Forecasting (Basics),Data
+SKL-000064,Testing - Test Design (Basics),Testing
+SKL-000065,DevOps - Linux Admin (Basics),DevOps
+SKL-000066,Cloud - Cost Management (Basics),Cloud
+SKL-000067,Database - Backup (Basics),Database
+SKL-000068,Web - State Management (Basics),Web
+SKL-000069,Security - Network Security (Basics),Security
+SKL-000070,Delivery - Roadmapping (Basics),Delivery
+SKL-000071,Java - I/O (Basics),Java
+SKL-000072,Python - Typing (Basics),Python
+SKL-000073,Data - Data Quality (Basics),Data
+SKL-000074,Testing - Mocking (Basics),Testing
+SKL-000075,DevOps - Git Workflows (Basics),DevOps
+SKL-000076,Cloud - Cloud Migration (Basics),Cloud
+SKL-000077,Database - Stored Procedures (Basics),Database
+SKL-000078,Web - Browser Tooling (Basics),Web
+SKL-000079,Security - Compliance (Basics),Security
+SKL-000080,Delivery - Retrospectives (Basics),Delivery
+SKL-000081,Java - Spring Boot (Basics),Java
+SKL-000082,Python - Scripting (Basics),Python
+SKL-000083,Data - Warehousing (Basics),Data
+SKL-000084,Testing - Exploratory Testing (Basics),Testing
+SKL-000085,DevOps - Ansible (Basics),DevOps
+SKL-000086,Cloud - Observability (Basics),Cloud
+SKL-000087,Database - Migrations (Basics),Database
+SKL-000088,Web - UX Basics (Basics),Web
+SKL-000089,Security - Incident Response (Basics),Security
+SKL-000090,Delivery - Business Analysis (Basics),Delivery
+SKL-000091,Java - JPA (Basics),Java
+SKL-000092,Python - Testing Tools (Basics),Python
+SKL-000093,Data - Reporting (Basics),Data
+SKL-000094,Testing - BDD (Basics),Testing
+SKL-000095,DevOps - Release Engineering (Basics),DevOps
+SKL-000096,Cloud - Containers on Cloud (Basics),Cloud
+SKL-000097,Database - Caching (Basics),Database
+SKL-000098,Web - TypeScript (Basics),Web
+SKL-000099,Security - Pen Testing Basics (Basics),Security
+SKL-000100,Delivery - Process Modeling (Basics),Delivery
